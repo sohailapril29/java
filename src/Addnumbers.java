@@ -4,6 +4,6 @@ public class Addnumbers {
         int b = 20;
         int c = 30;
         int total = a + b + c;
-        System.out.println("Your Total Is " + total);
+        System.out.println("Your Total " + total);
     }
 }
