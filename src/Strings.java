@@ -3,7 +3,7 @@ public class Strings {
     public static void main(String[] args) {
         int a = 6;
         float b = 5.6454f;
-        char c = (char) 'Q';
+        char c =  'Q';
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Your name");
         String name = sc.nextLine();
@@ -12,3 +12,4 @@ public class Strings {
                 , a,b,c,name);
     }
 }
+
